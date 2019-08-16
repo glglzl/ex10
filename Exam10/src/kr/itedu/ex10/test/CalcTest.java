@@ -10,6 +10,7 @@ class CalcTest {
 
 	@Test
 	void test() {
+		//ghghghg
 		assertEquals(30,Calc.sum(10, 20));
 		assertEquals(50,Calc.sum(25, 25));
 		assertEquals(3,Calc.sum(1, 2));
